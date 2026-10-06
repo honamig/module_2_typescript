@@ -1,0 +1,23 @@
+{
+  "name": "module_2_typescript",
+  "version": "1.0.0",
+  "description": "It is a simple web application for managing tasks and assignments. Users can add tasks with information such as a task name, course, due date, and priority.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/honamig/module_2_typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/honamig/module_2_typescript/issues"
+  },
+  "homepage": "https://github.com/honamig/module_2_typescript#readme",
+  "devDependencies": {
+    "typescript": "^7.0.2"
+  }
+}
