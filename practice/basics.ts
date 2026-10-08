@@ -50,7 +50,46 @@ let taskInfo: [string, number, boolean] = [
  console.log(taskInfo[2]);
 
  let student: [string, number, boolean] = [
-    "BYUI",
+    "Honami",
     24,
     true
  ]
+
+class Task {
+    title: string;
+    completed: boolean;
+
+    constructor(title: string) {
+        this.title = title;
+        this.completed = false;
+    }
+
+    completeTask(): void {
+        this.completed = true;
+    }
+
+    resetTask(): void {
+    this.completed = false;
+}
+}
+
+// let task1 = new Task("Finish CSE 310");
+
+// console.log(task1);
+// task1.completeTask();
+// console.log(task1);
+
+let task1 = new Task("Finish CSE 310");
+
+console.log(task1.completed); // false
+
+task1.completeTask();
+console.log(task1.completed); // true
+
+task1.resetTask();
+console.log(task1.completed); // false
+
+let myTask = new Task("Finish TypeScript Project");
+
+console.log(myTask);
+
