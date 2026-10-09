@@ -27,7 +27,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |Date      |Start Time|Category|Description                                 |Total Minutes|
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 | 10/6     | 8:00     | IM     |                                            | 1h          |
-|          |          |        |                                            |             |
+| 10/8     | 8:00     | IM     |                                            | 3h          |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |

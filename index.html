@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Planner</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="dist/app.js" defer></script>
+</head>
+<body>
+    <main>
+        <h1>My Task Planner</h1>
+        <p>Manage your assignments and tasks.</p>
+
+        <form id="task-form">
+            <label for="task-name">Task Name</label>
+            <input type="text" id="task-name" required>
+
+            <label for="course">Course</label>
+            <input type="text" id="course" required>
+
+            <label for="priority">Priority</label>
+            <select id="priority">
+                <option value="1">Low</option>
+                <option value="2">Medium</option>
+                <option value="3">High</option>
+            </select>
+
+            <button type="submit">Add Task</button>
+        </form>
+
+        <h2>My Tasks</h2>
+        <ul id="task-list"></ul>
+    </main>
+</body>
+</html>
