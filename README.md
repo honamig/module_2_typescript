@@ -44,6 +44,5 @@ I found these websites useful in developing this software:
 
 The following items I plan to fix, improve, and/or add to this project in the future:
 
-* [ ] First thing here
-* [ ]
-* [ ]
+* [ ] Save tasks with localStorage so they remain after the page is reloaded
+* [ ] Add a due date field and sort tasks by due date

@@ -28,7 +28,7 @@ The expected minimum amount of time each Sprint for each category is as follows:
 |----------|----------|:------:|--------------------------------------------|:-----------:|
 | 10/6     | 8:00     | IM     |                                            | 1h          |
 | 10/8     | 8:00     | IM     |                                            | 3h          |
-|          |          |        |                                            |             |
+| 10/17    | 18:00    | IM     |                                            | 4.5h        |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
 |          |          |        |                                            |             |
@@ -39,7 +39,7 @@ _Note: Add more rows as needed._
 
 |Categroy                       |Total Time (Hours:Minutes)|
 |-------------------------------|:------------------------:|
-|IM - Individual Module         |                          |
-|TP - Team Project              |                          |
-|MTG - Class Meetings           |                          |
-|**TOTAL**                      |                          |
+|IM - Individual Module         | 8.5h                     |
+|TP - Team Project              | 4h                       |
+|MTG - Class Meetings           | 4h                       |
+|**TOTAL**                      | 16.5h                    |
